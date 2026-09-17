@@ -7,7 +7,7 @@ Ngong.
 
 ## Live
 
-**https://miqell24.github.io/nairobi-bus-map/** — GitHub Pages serves
+**https://agcghub.github.io/nairobi-bus-map/** — GitHub Pages serves
 `main:/docs`; local build on port 8185 (`npm run serve`).
 
 Everything comes from ONE feed — the **Digital Matatus GTFS**
